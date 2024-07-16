@@ -1,0 +1,19 @@
+[0.564s] Invoking command in '/home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/prefix_override:/home/santiago/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.778s] running develop
+[0.954s] running egg_info
+[0.955s] writing my_robot_controller.egg-info/PKG-INFO
+[0.955s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.955s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.955s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.955s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.957s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.958s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.959s] running build_ext
+[0.959s] Creating /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.960s] Installing draw_circle script to /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.960s] Installing first_node script to /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.960s] Installing pose_subscriber script to /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.960s] 
+[0.960s] Installed /home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller
+[0.961s] running symlink_data
+[1.005s] Invoked command in '/home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/prefix_override:/home/santiago/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/build --no-deps symlink_data

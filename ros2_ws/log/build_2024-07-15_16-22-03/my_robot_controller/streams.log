@@ -1,0 +1,20 @@
+[0.552s] Invoking command in '/home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/prefix_override:/home/santiago/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force
+[0.770s] running develop
+[0.932s] running egg_info
+[0.932s] writing my_robot_controller.egg-info/PKG-INFO
+[0.932s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.932s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.933s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.933s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.935s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.936s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.938s] running build_ext
+[0.938s] Creating /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.939s] Installing draw_circle script to /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.939s] Installing first_node script to /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.940s] 
+[0.940s] Installed /home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller
+[0.940s] running symlink_data
+[0.940s] symbolically linking /home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/resource/my_robot_controller -> /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.940s] symbolically linking /home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/package.xml -> /home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[0.982s] Invoked command in '/home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/prefix_override:/home/santiago/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/santiago/bwsi_uav_santiago_ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/santiago/bwsi_uav_santiago_ros/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force
